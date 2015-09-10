@@ -14,6 +14,10 @@ class Hund extends Haustier implements TierMitMaul,TierMitFell{
 		echo "Wuff";
 	}
 
+	public function lala() {
+		
+	}
+
 	public function fuetterDasTier() {
 		echo 'NOMNOM LECKER WUFF';
 	}
